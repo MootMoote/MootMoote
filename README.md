@@ -1,4 +1,4 @@
-# ansible-letsencrypt
+# vulnerability
 An ansible role to generate TLS certificates and get them signed by Let's Encrypt.
 
 Currently attempts first to use the `webroot` authenticator, then if that fails to create certificates,
